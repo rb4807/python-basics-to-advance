@@ -30,7 +30,7 @@ print(z)
 g= "Hello World"
 print(g[5:])
 
-# replace worls with python
+# replace words with python
 m= "Hello World"
 k=m[0:6]
 print(b)

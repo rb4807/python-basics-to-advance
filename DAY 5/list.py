@@ -1,5 +1,5 @@
 ############################################ List #############################################################
-# collection of different types of elements
+# collection of different types of datatypes elements
 # 1. Collection of MUTABLE
 # 2. Allow Dupltication
 # 3. Ordered collection

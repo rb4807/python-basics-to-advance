@@ -2,6 +2,7 @@
 # 1. Collection of IMMUTABLE
 # 2. Allow Dupltication
 # 3. Ordered collection
+# collection of different types of datatypes elements
 # Representation ( )
 
 # Syntax
@@ -23,4 +24,4 @@ print("No.of banana in fruit using count :- ",b)
 
 # Note : * Tuple are sequence just like list. The difference between tuple and list are 
 #          tuples cannot be changed unlike list can 
-#        * tuples use paratheses but list use square bracket [] 
+#         * tuples use paratheses but list use square bracket []

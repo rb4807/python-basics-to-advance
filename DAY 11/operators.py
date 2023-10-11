@@ -140,6 +140,8 @@ print(x not in y)
 
 # 7. Identity Operators :- is , is not
 
+# To check ID of two values is same
+
 x = ["apple","mango","grape"]
 y = ["apple","mango"]
 print(x is y)
